@@ -19,3 +19,8 @@ Playing
 
 At the beginning our bullets have 3 cell/second and blocks
 have 1 cell/second. Each ten score will increase the blocks’ speed by one.
+
+Screenshot
+-------------
+
+![](https://dl.dropboxusercontent.com/s/swuvgguzjohpjgm/fallen-blocks-ss.png)
